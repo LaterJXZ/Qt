@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/about.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/exit.png</file>
+        <file>images/new.png</file>
+        <file>images/next.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/previous.png</file>
+        <file>images/redo.png</file>
+        <file>images/save.png</file>
+        <file>images/saveAs.png</file>
+        <file>images/undo.png</file>
+        <file>images/fileprint.png</file>
+        <file>images/font.png</file>
+        <file>images/textcolor.png</file>
+        <file>images/textcenter.png</file>
+        <file>images/textjustify.png</file>
+        <file>images/textleft.png</file>
+        <file>images/textright.png</file>
+    </qresource>
+</RCC>
